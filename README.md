@@ -19,9 +19,9 @@ nicely IMO).
 ```
 git clone https://github.com/sbassett29/Application-Security-Training.git .
 ```
-3. Step through examples as listed at `secdemos/index.php` - not that certain
-files have helpful one-line comments near the top as to whether they should be
-run in the browser or via the cli.
+3. Step through examples as listed at `secdemos/index.php` - note that certain
+files have helpful, one-line comments near the top as to whether they should be
+run within the browser or via the cli.
 
 ## Authors
 
