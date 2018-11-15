@@ -1,6 +1,12 @@
 <?php
 
-// from: https://stackoverflow.com/questions/25844354/timing-attack-in-php
+/**
+ * based upon publicly-posted code snippet from: 
+ * <https://stackoverflow.com/questions/25844354/timing-attack-in-php>
+ * - a sample timing attack analysis under "perfect" conditions
+ */
+
+/* to be run at cli */
 
 $nchars = 1000;
 $s1 = str_repeat( 'a', $nchars + 1 );

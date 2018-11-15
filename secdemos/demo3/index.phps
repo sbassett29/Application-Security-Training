@@ -1,5 +1,7 @@
 <?php
 
+/* to be run in browser */
+
 const TOKEN = 'Hr3xDVfC';
 
 if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {

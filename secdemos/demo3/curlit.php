@@ -1,5 +1,7 @@
 <?php
 
+/* to be run at cli */
+
 /**
  * debug
  */

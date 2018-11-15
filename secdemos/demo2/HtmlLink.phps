@@ -1,5 +1,7 @@
 <?php
 
+/* to be run in browser */
+
 /**
  * a html link/url helper class
  * @return string (of html)
